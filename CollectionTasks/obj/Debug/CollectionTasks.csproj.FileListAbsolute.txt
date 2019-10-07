@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\CollectionTasks\bin\Debug\CollectionTasks.exe.config
+C:\Users\user\source\repos\CollectionTasks\bin\Debug\CollectionTasks.exe
+C:\Users\user\source\repos\CollectionTasks\bin\Debug\CollectionTasks.pdb
+C:\Users\user\source\repos\CollectionTasks\obj\Debug\CollectionTasks.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CollectionTasks\obj\Debug\CollectionTasks.exe
+C:\Users\user\source\repos\CollectionTasks\obj\Debug\CollectionTasks.pdb

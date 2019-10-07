@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ShoppingAssnmt\obj\Debug\ShoppingAssnmt.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ShoppingAssnmt\bin\Debug\ShoppingAssnmt.exe.config
+C:\Users\user\source\repos\ShoppingAssnmt\bin\Debug\ShoppingAssnmt.exe
+C:\Users\user\source\repos\ShoppingAssnmt\bin\Debug\ShoppingAssnmt.pdb
+C:\Users\user\source\repos\ShoppingAssnmt\obj\Debug\ShoppingAssnmt.exe
+C:\Users\user\source\repos\ShoppingAssnmt\obj\Debug\ShoppingAssnmt.pdb
